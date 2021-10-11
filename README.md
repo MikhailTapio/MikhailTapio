@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MikhailTapio
-- 👀 I’m interested in translating Minecraft Mods,playing the piano,etc.
-- 🌱 I’m currently learning Business Administration.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:Email:PloughRemnant@126.com 
+- 👀 I’m interested in translating && developing Minecraft Mods, playing the piano, etc.
+- 🌱 I’m currently learning Information Management && Information System.
+- 💞️ I’m looking to collaborate on developing Minecraft Forge Mods.
+- 📫 How to reach me:Email:MikhailTapio@protonmail.com
 
 <!---
 MikhailTapio/MikhailTapio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
